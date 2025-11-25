@@ -1,0 +1,22 @@
+# Setup
+title:               Portafolio de Williams Jahel Estrella Higuera
+tagline:             'A Jekyll theme'
+description:         'Analista de Soporte DevOps y Desarrollador Full-Stack con experiencia en ERPs (TOTVS Proteus). <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:              Williams Jahel Estrella Higuera
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             estrellahiguera123@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
